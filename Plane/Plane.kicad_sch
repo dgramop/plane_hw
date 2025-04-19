@@ -3510,7 +3510,7 @@
 		)
 		(uuid "a81138cb-2424-4e1c-8575-bcb6272661da")
 	)
-	(label "radio_rx_mcu_rx"
+	(label "radio_tx_mcu_rx"
 		(at 86.36 45.72 180)
 		(effects
 			(font
