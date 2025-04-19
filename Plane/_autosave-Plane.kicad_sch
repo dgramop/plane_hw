@@ -5921,7 +5921,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Speed Controller"
+		(property "Value" "ESC"
 			(at 125.73 121.4868 0)
 			(effects
 				(font
